@@ -21,12 +21,12 @@ I think that there are scenes of visual intrigue to be had here, if you have a f
 
 : *Blooming apple orchard along the Erie Canal*
 
-![sunrise and fog over field](/images/photos/rural/2.jpg){:style="width: 65%; margin-left: 15%;" onclick="myFunction(this);"}
+![sunrise and fog over field](/images/photos/rural/2-1.jpg){:style="width: 65%; margin-left: 15%;" onclick="myFunction(this);"}
 
-![clearing trees around the farm](/images/photos/rural/2020_0703_03025500-01.jpeg){:style="width: 65%; margin-left: 15%;" onclick="myFunction(this);"}
+![clearing trees around the farm](/images/photos/rural/2020_0703_03025500-01.jpg){:style="width: 65%; margin-left: 15%;" onclick="myFunction(this);"}
 
 These atributes may be familiar to those who live on the north side of the lake in Ontario, Canada and likely throughout the Great Lakes. There are also Field Stone, Carpenter Gothic and Victorian style houses and I might explore some of that in a future series.
 
-![four horses out to pasture](/images/photos/rural/2020_0703_03161100-02.jpeg){:style="width: 75%; margin-left: 10%;" class="column" onclick="myFunction(this);"}
+![four horses out to pasture](/images/photos/rural/2020_0703_03161100-02.jpg){:style="width: 75%; margin-left: 10%;" class="column" onclick="myFunction(this);"}
 
 You can peek photos tagged rural in my [gallery](/photos/rural/).
