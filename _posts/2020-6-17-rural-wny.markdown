@@ -16,6 +16,8 @@ The land is flat, save for occasional dips and inclines - sloping gently downwar
 
 I think that there are scenes of visual intrigue to be had here, if you have a feel for subtlty.
  Old barns, silos and farmhouses sit proud atop gentle hills. There are many creeks that flow north and join together before draining into Lake Ontario. The dips and and open fields hold the morning fog of spring and autumn. The orchards in spring hold acres of blossoms. The harvest season has it's own beauty as leaves turn color and farm stands have endless varieties of pumpkins and gourds. Winter inundates the scenery with fluffy "lake effect" snow.
+ 
+![snow-covered dormant apple orchard on the Lake Ontario coastline](/images/photos/rural/winterlakeorchard1.jpg){:style="width: 65%; margin-left: 15%;" onclick="myFunction(this);"} *Dormant apple orchard. There's a sliver of Lake Ontario on the horizon.*
 
 ![blooming apple orchard along Erie Canal](/images/photos/rural/appleblossoms.jpg){:style="width: 65%; margin-left: 15%;" onclick="myFunction(this);"}
 
