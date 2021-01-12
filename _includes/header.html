@@ -5,7 +5,7 @@
     {%- assign default_paths = site.pages | map: "path" -%}
     {%- assign page_paths = site.header_pages | default: default_paths -%}
 <!--    <a class="site-title" rel="author" href="{{ "/" | relative_url }}">{{ site.title | escape }}<image src="/images/romansig.png" width="71px" height="50px" /></a> -->
-    <a class="site-title" rel="author" href="{{ "/" | relative_url }}"><image src="/images/romansig.png" width="105px" height="50px" /></a>
+    <a class="site-title" rel="author" href="{{ "/" | relative_url }}"><image src="/images/romansig.png" style="width:105px; height: 50px" /></a>
 
     {%- if page_paths -%}
       <nav class="site-nav"style="z-index: 1;">
