@@ -22,7 +22,7 @@ I think that there are scenes of visual intrigue to be had here, if you have a f
 *Dormant apple orchard. There's a sliver of Lake Ontario on the horizon.*
 
 ![blooming apple orchard along Erie Canal](/images/photos/rural/appleblossoms.jpg)
-*Blooming apple orchard along the Erie Canal*
+*Blooming apple orchard along the Erie Canal.*
 
 ![sunrise and fog over field](/images/photos/rural/2-1.jpg)
 *Dips and and open fields hold the morning fog of spring and autumn.*
