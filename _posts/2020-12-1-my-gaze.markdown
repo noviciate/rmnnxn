@@ -14,5 +14,4 @@ Let's explore how the gaze comes about. I can only speak for myself, really:
 
 I think about how the idea or image appears in a visual space in my mind. The image renders itself in varying degrees of completeness and I am affected by it emotionally and intellectually. This affect is informed by my senses, life experiences, etc. I eventually reach a level of satisfaction with the perceived accuracy of the composition. I try to capture this image in a photograph, paint it onto canvas or whatever.
 
-{:.center}
-![a study of light on my face](/images/previews/2020_0320_00103300-01.jpeg){:style="width: 40%;  margin-left: 0%; margin-right: 60%; float: left;" onclick="myFunction(this);"} <span style="color: grey; font-style: italic; float: left;">The artist in contemplation ... or just a study of lighting.</span>
+![a study of light on my face](/images/previews/2020_0320_00103300-01.jpeg)*Contemplation ... or rather practicing with lighting.*

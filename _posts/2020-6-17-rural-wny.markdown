@@ -5,7 +5,7 @@ date:   2020-6-16 14:32:08 -0500
 categories: photography
 image: /images/photos/rural/91730029.jpg
 ---
-<style>img{max-height:80vh; vertical-align:middle; object-fit:contain;} img + em { display: block; text-align: center; }</style>
+
 *... as it pertains to the west side of Rochester in Monroe and Orleans counties.*
 
 The land is flat, save for occasional dips and inclines while sloping gently downward toward Lake Ontario, due north. Wooded areas are mostly privately owned---with young, stick-like trees and densly packed shrubery. All between and beyond the interstices of suburban development.
