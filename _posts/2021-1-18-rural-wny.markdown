@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Rural Western NY part 1"
-date:   2021-1-18 11:32:08 -0500
+date:   2021-1-18 11:01:08 -0500
 categories: photography
 image: /images/photos/rural/91730029.jpg
 ---
