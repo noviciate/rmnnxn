@@ -8,9 +8,9 @@ image: /images/photos/rural/91730029.jpg
 
 *... as it pertains to the west side of Rochester in Monroe and Orleans counties.*
 
-The land is flat, save for occasional dips and inclines while sloping gently downward toward Lake Ontario, due north. Wooded areas are mostly privately owned---with young, stick-like trees and densly packed shrubery. All between and beyond the interstices of suburban development.
+The land is flat, save for occasional dips and inclines while sloping gently downward toward Lake Ontario, due north. Wooded areas are mostly privately owned---with young, stick-like trees and densely packed shrubbery. All between and beyond the interstices of suburban development.
 
-I think that there are scenes of visual intrigue to be had here, if you have a feel for subtlty.
+I think that there are scenes of visual intrigue to be had here, if you have a feel for subtlety.
 
 ![barns and silo](/images/photos/rural/91730029.jpg)
 *Ramshackle barns and a silo sit proud atop a gentle hill at a cattle farm. Newer facility just behind them.*
