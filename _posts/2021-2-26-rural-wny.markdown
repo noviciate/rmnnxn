@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Rural Western NY part 1"
-date:   2021-1-18 11:01:08 -0500
+date:   2021-2-26 22:01:08 -0500
 categories: photography
 image: /images/photos/rural/91730029.jpg
 ---
@@ -15,7 +15,7 @@ I think that there are scenes of visual intrigue to be had here, if you have a f
 ![barns and silo](/images/photos/rural/91730029.jpg)
 *Ramshackle barns and a silo sit proud atop a gentle hill at a cattle farm. Newer facility just behind them.*
 
-**[Image pending development]**
+![woodsy creek in the afternoon light](/images/photos/water/afternooncreek.jpg)
 *One of many creeks that flow north and join together before draining into Lake Ontario.*
  
 ![snow-covered dormant apple orchard on the Lake Ontario coastline](/images/photos/rural/winterlakeorchard1.jpg)
