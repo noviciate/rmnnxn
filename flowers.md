@@ -13,7 +13,7 @@ galleries:
    - filename: /images/photos/flowers/2020_0629_20151900-01-01.jpg
      title: Waistline
    - filename: /images/photos/flowers/IMG_20200322_105800_285.jpg
-     title: O'Keefe'd Iris
+     title: O'Keeffe'd Iris
    - filename: /images/photos/flowers/IMG_20200408_143254_167.jpg
      title: OK
 ---
