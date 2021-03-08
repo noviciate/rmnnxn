@@ -2,9 +2,18 @@
 layout: page
 title: Paintings
 permalink: /paintings/
+permalink: /photos/flowers
+galleries:
+   - filename: /images/paintings/bronzeface.jpg
+     title: Bronze Face (Charcoal/Digital)
+   - filename: /images/paintings/bronzeface-oil.jpg
+     title: Bronze Face (Oil on Canvas)
+   - filename: /images/paintings/goldengirl.jpg
+     title: Golden Speckle Girl
+   - filename: /images/paintings/lndscpe1.jpg
+     title: Introscopic Landscape 1 (Oil/Digital Study)
 ---
 
 I work on a concept in stages - usually starting with a charcoal/graphite sketch and then moving onto a digital study/painting. The final step is in physical media. Sometimes this process is in reverse or goes back and forth between media.
-{% include image-gallery.html folder="/images/paintings" %}
 
-[jekyll-organization]: https://github.com/jekyll
+{% include gallery.html %}
