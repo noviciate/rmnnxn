@@ -9,7 +9,7 @@ galleries:
    - filename: /images/photos/urban/6-1.jpg
      title: Framed Fisherman at Lower Falls
    - filename: /images/photos/flowers/IMG_20200322_105800_285.jpg
-     title: O'Keefe'd Iris
+     title: O'Keeffe'd Iris
    - filename: /images/photos/village/2020_0703_03052500-01.jpg
      title: Faded Flag
    - filename: /images/photos/water/ blackcreek.jpg
