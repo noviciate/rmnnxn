@@ -2,7 +2,6 @@
 layout: page
 title: Paintings
 permalink: /paintings/
-permalink: /photos/flowers
 galleries:
    - filename: /images/paintings/bronzeface.jpg
      title: Bronze Face (Charcoal/Digital)
