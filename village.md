@@ -10,6 +10,8 @@ galleries:
      title: Briggs Alley Survey of Textures
    - filename: /images/photos/village/2020_0703_03052500-01.jpg
      title: Faded Flag
+   - filename: /images/photos/village/winterholley.jpg
+     title: Winter Holley
    - filename: /images/photos/village/IMG_20200225_103817-01.jpg
      title: Twig Stratified
    - filename: /images/photos/village/sunsetsubdiv.jpg
