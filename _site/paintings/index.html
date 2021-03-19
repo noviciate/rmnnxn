@@ -9,13 +9,13 @@
 <meta property="og:locale" content="en_US" />
 <meta name="description" content="American artist working in oil painting and photography." />
 <meta property="og:description" content="American artist working in oil painting and photography." />
-<link rel="canonical" href="http://0.0.0.0:4000/paintings/" />
-<meta property="og:url" content="http://0.0.0.0:4000/paintings/" />
+<link rel="canonical" href="http://localhost:4000/paintings/" />
+<meta property="og:url" content="http://localhost:4000/paintings/" />
 <meta property="og:site_name" content="Roman Nixon" />
 <script type="application/ld+json">
-{"@type":"WebPage","headline":"Paintings","url":"http://0.0.0.0:4000/paintings/","description":"American artist working in oil painting and photography.","@context":"https://schema.org"}</script>
+{"@type":"WebPage","headline":"Paintings","url":"http://localhost:4000/paintings/","description":"American artist working in oil painting and photography.","@context":"https://schema.org"}</script>
 <!-- End Jekyll SEO tag -->
-<link rel="stylesheet" href="/assets/main.css"><link type="application/atom+xml" rel="alternate" href="http://0.0.0.0:4000/feed.xml" title="Roman Nixon" /></head>
+<link rel="stylesheet" href="/assets/main.css"><link type="application/atom+xml" rel="alternate" href="http://localhost:4000/feed.xml" title="Roman Nixon" /></head>
 <body><head>
  <link rel="icon" href="/favicon.png" type="image/png" />
 </head>
@@ -51,334 +51,26 @@
 
   <div class="post-content">
     <p>I work on a concept in stages - usually starting with a charcoal/graphite sketch and then moving onto a digital study/painting. The final step is in physical media. Sometimes this process is in reverse or goes back and forth between media.</p>
-<meta name="viewport" content="width=device-width, initial-scale=1" />
 
-<style>
-
-body {
-  margin: 0;
-/*  font-family: Arial;*/
-}
-
-/* The grid: Four equal columns that floats next to each other */
-.column {
-  float: left;
-  width: 47%;
-  padding: 10px;
-}
-
-/* Display the columns below each other instead of side by side on small screens */
-@media screen and (max-width: 712px) {
-  .column {
-    width: 95%;
-    display: block;
-  }
-}
-
-/* Style the images inside the grid */
-.column img {
-  opacity: 1; 
-  cursor: pointer; 
-  object-fit: cover;
-  height: 200px;
-}
-
-.column img:hover {
-  opacity: 0.8;
-}
-
-/* Clear floats after the columns */
-.row:after {
-  content: "";
-  display: table;
-  clear: both;
-}
-
-/* The expanding image container */
-.container {
-  position: relative;
-  display: none;
-}
-
-/* Expanding image text */
-#imgtext {
-  position: absolute;
-  bottom: 15px;
-  left: 15px;
-  color: white;
-  font-size: 20px;
-}
-
-/* Closable button inside the expanded image */
-.closebtn {
-  position: absolute;
-  top: 15px;
-  right: 15px;
-  color: white;
-  font-size: 35px;
-  cursor: pointer;
-}
-
-/* The Modal (background) */
-.modal {
-  display: none; /* Hidden by default */
-  position: fixed; /* Stay in place */
-  z-index: 1; /* Sit on top */
-  padding-top: 50px; /* Location of the box */
-  left: 0;
-  top: 0;
-  width: 100%; /* Full width */
-  height: 100%; /* Full height */
-  overflow: auto; /* Enable scroll if needed */
-  background-color: rgb(0,0,0); /* Fallback color */
-  background-color: rgba(0,0,0,0.9); /* Black w/ opacity */
-}
-
-/* Modal Content (Image) */
-.modal-content {
-  margin: auto;
-  display: block;
-  max-width: 100%;
-  max-height: 90%;
-  object-fit: contain;
-  width: auto;
-  height: auto;
-}
-
-/* Caption of Modal Image (Image Text) - Same Width as the Image */
-#caption {
-  margin: auto;
-  display: block;
-  width: 80%;
-  max-width: 700px;
-  text-align: center;
-  color: #ccc;
-  padding: 10px 0;
-  height: auto;
-}
-
-/* Add Animation - Zoom in the Modal */
-.modal-content, #caption {
-  animation-name: zoom;
-  animation-duration: 0.2s;
-}
-
-@keyframes zoom {
-  from {transform:scale(0)}
-  to {transform:scale(1)}
-}
-
-.title {
-  top: 0px;
-  display: flex;
-  justify-content: center;
-  align-items: center;
-  color: #f1f1f1;
-  font-size: 15px;
-  font-weight: bold;
-  transition: 0.3s;
-  text-align: center;
-}
-
-/* The Close Button */
-.close {
-  position: absolute;
-  top: 0px;
-  right: 35px;
-  color: #f1f1f1;
-  font-size: 40px;
-  font-weight: bold;
-  transition: 0.3s;
-}
-
-.close:hover,
-.close:focus {
-  color: #bbb;
-  text-decoration: none;
-  cursor: pointer;
-}
-
-/* 100% Image Width on Smaller Screens */
-@media only screen and (max-width: 700px){
-  .modal-content {
-    width: 100%;
-  }
-}
-
-/* Style the buttons */
-.btn {
-  outline: 1px;
-  border: 0px;
-  outline-style: dotted;
-  outline-color: #010101;
-  padding: 12px 16px;
-  background-color: white;
-  cursor: pointer;
-}
-
-.btn:hover {
-  background-color: #ddd;
-}
-
-.btn.active {
-  background-color: #666;
-  color: white;
-}
-
-</style>
-
-<!-- two columns -->
-<div class="column">
-   <img class="myImg" id="myImg" src="/images/paintings/bronzeface.jpg" alt="" style="width:100%" onclick="myFunction(this);" />
+<div class="column"><div class="text-block">Bronze Face (Charcoal/Digital)</div><a href="/images/paintings/bronzeface.jpg"><img src="/images/paintings/bronzeface.jpg" loading="lazy" /></a>
 </div>
 
-<!-- The Modal -->
-<div id="myModal" class="modal">
-
-  <!-- The Close Button -->
-    <span class="title">/images/paintings/bronzeface.jpg</span>
-    <span class="close">&times;</span>
-
-  <!-- Modal Content (The Image) -->
-  <img class="modal-content" id="img01" />
-
-  <!-- Modal Caption (Image Text) -->
-  <div id="caption">sup</div>
+<div class="column"><div class="text-block">Bronze Face (Oil on Canvas)</div><a href="/images/paintings/bronzeface-oil.jpg"><img src="/images/paintings/bronzeface-oil.jpg" loading="lazy" /></a>
 </div>
 
-<!-- two columns -->
-<div class="column">
-   <img class="myImg" id="myImg" src="/images/paintings/goldengirl.jpg" alt="" style="width:100%" onclick="myFunction(this);" />
+<div class="column"><div class="text-block">Golden Speckle Girl</div><a href="/images/paintings/goldengirl.jpg"><img src="/images/paintings/goldengirl.jpg" loading="lazy" /></a>
 </div>
 
-<!-- The Modal -->
-<div id="myModal" class="modal">
-
-  <!-- The Close Button -->
-    <span class="title">/images/paintings/goldengirl.jpg</span>
-    <span class="close">&times;</span>
-
-  <!-- Modal Content (The Image) -->
-  <img class="modal-content" id="img01" />
-
-  <!-- Modal Caption (Image Text) -->
-  <div id="caption">sup</div>
+<div class="column"><div class="text-block">Introscopic Landscape 1 (Oil/Digital Study)</div><a href="/images/paintings/lndscpe1.jpg"><img src="/images/paintings/lndscpe1.jpg" loading="lazy" /></a>
 </div>
 
-<!-- two columns -->
-<div class="column">
-   <img class="myImg" id="myImg" src="/images/paintings/lndscpe1.jpg" alt="" style="width:100%" onclick="myFunction(this);" />
-</div>
+<script type="text/javascript" src="/js/lightbox.js"></script>
 
-<!-- The Modal -->
-<div id="myModal" class="modal">
+<link rel="stylesheet" href="/css/lightbox.css" />
 
-  <!-- The Close Button -->
-    <span class="title">/images/paintings/lndscpe1.jpg</span>
-    <span class="close">&times;</span>
+<link rel="stylesheet" href="/css/columns.css" />
 
-  <!-- Modal Content (The Image) -->
-  <img class="modal-content" id="img01" />
-
-  <!-- Modal Caption (Image Text) -->
-  <div id="caption">sup</div>
-</div>
-
-<script>
-// Get the modal
-var modal = document.getElementById("myModal");
-
-// Get the image and insert it inside the modal - use its "alt" text as a caption
-var modalImg = document.getElementById("img01");
-var captionText = document.getElementById("caption");
-
-function myFunction(imgs) {
- var imgText = document.getElementById("imgtext");
-  modal.style.display = "block";
-  modalImg.src = imgs.src;
-  captionText.innerHTML = img.alt;
-  imgText.innerHTML = imgs.alt;
-
-}
-
-// Get the <span> element that closes the modal - swapped close with modal so they can click anywehere
-var span = document.getElementsByClassName("modal")[0];
-
-// When the user clicks on <span> (x) - or anywhere, close the modal
-span.onclick = function() {
-  modal.style.display = "none";
-} 
-
-// filter
-filterSelection("all")
-function filterSelection(c) {
-  var x, i;
-  x = document.getElementsByClassName("column");
-  if (c == "all") c = "";
-  for (i = 0; i < x.length; i++) {
-    w3RemoveClass(x[i], "show");
-    if (x[i].className.indexOf(c) > -1) w3AddClass(x[i], "show");
-  }
-}
-
-function w3AddClass(element, name) {
-  var i, arr1, arr2;
-  arr1 = element.className.split(" ");
-  arr2 = name.split(" ");
-  for (i = 0; i < arr2.length; i++) {
-    if (arr1.indexOf(arr2[i]) == -1) {element.className += " " + arr2[i];}
-  }
-}
-
-function w3RemoveClass(element, name) {
-  var i, arr1, arr2;
-  arr1 = element.className.split(" ");
-  arr2 = name.split(" ");
-  for (i = 0; i < arr2.length; i++) {
-    while (arr1.indexOf(arr2[i]) > -1) {
-      arr1.splice(arr1.indexOf(arr2[i]), 1);     
-    }
-  }
-  element.className = arr1.join(" ");
-}
-
-// Add active class to the current button (highlight it)
-var btnContainer = document.getElementById("myBtnContainer");
-var btns = btnContainer.getElementsByClassName("btn");
-for (var i = 0; i < btns.length; i++) {
-  btns[i].addEventListener("click", function(){
-    var current = document.getElementsByClassName("active");
-    current[0].className = current[0].className.replace(" active", "");
-    this.className += " active";
-    localStorage.setItem(this.className, this.className)
-    window.location.replace(page.url);
-  });
-}
-
-var x = document.getElementById("more");
-document.getElementById('more').style.display = 'none';
-
-function showMore() {
-
-  if (x.style.display === "none") {
-    x.style.display = "inline";
-  } else {
-    x.style.display = "none";
-  }
-}
-
-// Preserve scroll
-window.addEventListener('scroll',function() {
-    //When scroll change, you save it on localStorage.
-    localStorage.setItem('scrollPosition',window.scrollY);
-},false);
-
-window.addEventListener('load',function() {
-    if(localStorage.getItem('scrollPosition') !== null)
-       window.scrollTo(0, localStorage.getItem('scrollPosition'));
-},false);
-
-</script>
+<script type="text/javascript" src="/js/filter.js"></script>
 
 
   </div>

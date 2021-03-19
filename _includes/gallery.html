@@ -1,5 +1,5 @@
 {% for item in page.galleries %}
-<div class="column"><div class="text-block">{{ item.title }}</div><a href="{{ item.filename }}"><img src="{{ item.filename }}" /></a>
+<div class="column"><div class="text-block">{{ item.title }}</div><a href="{{ item.filename }}"><img src="{{ item.filename }}" loading="lazy"/></a>
 </div>
 {% endfor %}
 
