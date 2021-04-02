@@ -1,6 +1,6 @@
 ---
 layout: page
-title: UX Design
+title: UX
 permalink: /ux/
 ---
 # Hello, I'm Roman and...
