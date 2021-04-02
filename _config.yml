@@ -39,7 +39,7 @@ plugins:
 header_pages:
   - paintings.md
   - photos.md
-#  - ux.md
+  - ux.md
 
 # Exclude from processing.
 # The following items will not be processed, by default. Create a custom list
