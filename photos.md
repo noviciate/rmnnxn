@@ -107,7 +107,11 @@ galleries:
    - filename: /images/photos/trails/2020_0302_22540700-01.jpg
      title: Transitional Descent
 ---
-
+<style>
+.post-title {
+  font-family: 'Space Grotesk', sans-serif;
+}
+</style>
 {% include photoblurb.md %}
 
 {% include gallery.html %}

@@ -3,6 +3,11 @@ layout: page
 title: UX
 permalink: /ux/
 ---
+<style>
+.post-title {
+  font-family: 'Space Grotesk', sans-serif;
+}
+</style>
 # Hello, I'm Roman and...
 
 I'm a UX designer in training. Maybe we can work together on something in the future but until then, I am currently:
