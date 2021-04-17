@@ -82,7 +82,7 @@ document.addEventListener("DOMContentLoaded", function() {
     var newdiv = document.createElement("div");
     newdiv.setAttribute('id',"lightbox");
     document.body.appendChild(newdiv);
-
+    
     //add classes to links to be able to initiate lightboxes
     var elements = document.querySelectorAll('a');
     elements.forEach(element => {
@@ -111,6 +111,7 @@ document.addEventListener("DOMContentLoaded", function() {
         if(event.target.id != 'next' && event.target.id != 'prev'){
             this.innerHTML = '';
             document.getElementById('lightbox').style.display = 'none';
+    history.back();            
         }
     });
     
@@ -135,6 +136,10 @@ document.addEventListener("DOMContentLoaded", function() {
             document.getElementById('lightbox').style.display = 'block';
 
             setGallery(this);
+            history.pushState({},"image", this);
+            window.onpopstate = function(event) {
+              document.getElementById('lightbox').style.display = 'none';
+            };
         });
     });
 
