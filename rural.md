@@ -29,6 +29,8 @@ galleries:
      title: Dusted Apple Orchard
    - filename: /images/photos/rural/winterlakeorchard1.jpg
      title: Lakeside Dormant Orchard
+   - filename: /images/photos/rural/underwires.jpg
+     title: Under the Wires
 ---
 
 {% include photoblurb.md %}

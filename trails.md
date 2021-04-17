@@ -20,6 +20,8 @@ galleries:
      title: Mossy Knoll
    - filename: /images/photos/trails/noongate.jpg
      title: Noonday Gate (Sunken Garden)
+   - filename: /images/photos/trails/ascensionpoint.jpg
+     title: Ascension Point (Mt Hope)
 ---
 
 {% include photoblurb.md %}

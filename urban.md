@@ -30,6 +30,8 @@ galleries:
      title: Fixin'
    - filename: /images/photos/urban/IMG_20190928_135719101_HDR.jpg
      title: Not an Agora
+   - filename: /images/photos/urban/treecity.jpg
+     title: ROC Tree City
 ---
 
 {% include photoblurb.md %}
