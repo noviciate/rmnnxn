@@ -28,6 +28,8 @@ galleries:
      title: Framed Fisherman at Lower Falls
    - filename: /images/photos/water/2020_0630_21455100-01.jpg
      title: Affinity
+   - filename: /images/photos/urban/treecity.jpg
+     title: ROC Tree City
    - filename: /images/photos/rural/2020_0703_03163400-01.jpg
      title: Mau-silo-leum
    - filename: /images/photos/village/winterholley.jpg
@@ -38,6 +40,8 @@ galleries:
      title: Canal Apple Blossoms (near Albion)
    - filename: /images/photos/village/IMG_20200225_103817-01.jpg
      title: Twig Stratified
+   - filename: /images/photos/rural/underwires.jpg
+     title: Under the Wires
    - filename: /images/photos/flowers/IMG_20200322_105800_285.jpg
      title: O'Keeffe'd Iris
    - filename: /images/photos/flowers/2020_0628_20095300-01.jpg
@@ -54,6 +58,8 @@ galleries:
      title: Kodak Viewfinder
    - filename: /images/photos/village/2020_0703_03052500-01.jpg
      title: Faded Flag
+   - filename: /images/photos/trails/ascensionpoint.jpg
+     title: Ascension Point (Mt Hope)
    - filename: /images/photos/flowers/2020_0629_20151900-01-01.jpg
      title: Waistline
    - filename: /images/photos/urban/4-1.jpg
