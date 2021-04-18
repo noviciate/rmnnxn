@@ -14,6 +14,8 @@ galleries:
      title: Sheets of Charlotte
    - filename: /images/photos/trails/91730033-01.jpg
      title: Columns Along Impasse
+   - filename: /images/photos/trails/wakefulpeace.jpg
+     title: Wakeful Peace
    - filename: /images/photos/trails/durandlake.jpg
      title: Durand Lake
    - filename: /images/photos/trails/mossyknoll-1.jpg

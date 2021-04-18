@@ -50,6 +50,8 @@ galleries:
      title: Sheets of Charlotte
    - filename: /images/photos/flowers/2020_0408_02464300-01.jpg
      title: Bluesys
+   - filename: /images/photos/trails/wakefulpeace.jpg
+     title: Wakeful Peace
    - filename: /images/photos/water/IMG_20190908_080028358_HDR-1.jpg
      title: Morning Slabs
    - filename: /images/photos/urban/IMG_20190928_135719101_HDR.jpg
