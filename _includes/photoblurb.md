@@ -25,6 +25,13 @@ Images captured on a mix of film, mobile and digital with a bias toward 35mm fil
 .post-title {
   font-family: 'Space Grotesk', sans-serif;
 }
+/*
+div.sticky {
+  position: -webkit-sticky;
+  position: sticky;
+  top: 0;
+}
+*/
 </style>
 
 <div id="myBtnContainer">

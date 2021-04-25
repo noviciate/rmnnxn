@@ -1,6 +1,6 @@
 /* The grid: Four equal columns that floats next to each other */
 .column {
-  float: left;
+  display: inline-block;
   width: 47%;
   padding: 10px;
 }
@@ -26,12 +26,13 @@
 }
 
 /* Clear floats after the columns */
+/*
 .row:after {
   content: "";
   display: table;
   clear: both;
 }
-
+*/
 /* Top left text */
 .text-block {
   font-family: 'Space Grotesk', sans-serif;
