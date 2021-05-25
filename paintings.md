@@ -3,10 +3,12 @@ layout: page
 title: Paintings
 permalink: /paintings/
 galleries:
-   - filename: /images/paintings/bronzeface.jpg
-     title: Bronze Face (Charcoal/Digital)
-   - filename: /images/paintings/bronzeface-oil.jpg
-     title: Bronze Face (Oil on Canvas)
+   - filename: /images/paintings/bronzeface-final.jpg
+     title: Bronze Face v3 (Charcoal/Oil/Digital)
+#   - filename: /images/paintings/bronzeface.jpg
+#     title: Bronze Face (Charcoal/Digital)
+#   - filename: /images/paintings/bronzeface-oil.jpg
+#     title: Bronze Face (Oil on Canvas)
    - filename: /images/paintings/goldengirl.jpg
      title: Golden Speckle Girl
    - filename: /images/paintings/lndscpe1.jpg
