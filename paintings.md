@@ -9,6 +9,8 @@ galleries:
 #     title: Bronze Face (Charcoal/Digital)
 #   - filename: /images/paintings/bronzeface-oil.jpg
 #     title: Bronze Face (Oil on Canvas)
+   - filename: /images/paintings/chin.jpg
+     title: solstice (Oil on Paper)
    - filename: /images/paintings/goldengirl.jpg
      title: Golden Speckle Girl
    - filename: /images/paintings/lndscpe1.jpg
