@@ -22,6 +22,8 @@ galleries:
      title: Afternoon Creek
    - filename: /images/photos/water/ blackcreek.jpg
      title: Black Creek 00
+   - filename: /images/photos/water/nothingnatural.jpg
+     title: Nothing Natural
    - filename: /images/photos/water/IMG_20190908_080028358_HDR-1.jpg
      title: Morning Slabs
    - filename: /images/photos/water/IMG_20191019_122051808_HDR-1.jpg

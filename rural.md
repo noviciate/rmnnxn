@@ -13,6 +13,8 @@ galleries:
      title: Spring Cleaning
    - filename: /images/photos/rural/2020_0703_03161100-02.jpg
      title: Four Horses Out to Pasture
+   - filename: /images/photos/rural/cattlecafe.jpg
+     title: Cattle Cafe
    - filename: /images/photos/rural/2020_0703_03163400-01.jpg
      title: Mau-silo-leum
    - filename: /images/photos/rural/2-1.jpg
@@ -23,6 +25,8 @@ galleries:
      title: Proud Ramshackle Barns
    - filename: /images/photos/rural/appleblossoms.jpg
      title: Canal Apple Blossoms (near Albion)
+   - filename: /images/photos/rural/richscorner.jpg
+     title: Rich's Corner
    - filename: /images/photos/rural/IMG_20190908_070254723_HDR.jpg
      title: Foggy Morning Ride
    - filename: /images/photos/rural/IMG_20191108_094052779.jpg

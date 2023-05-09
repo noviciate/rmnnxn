@@ -36,9 +36,9 @@ div.sticky {
 
 <div id="myBtnContainer">
   {%- assign pagelist = site.pages | where: "filter", "photos" -%}
-  {% if page.category != "Show All" %}<button class="btn" onclick="window.location.href= '/photos/' "> Show All</button> {% endif %}
+  {% if page.category != "Latest" %}<button class="btn" onclick="window.location.href= '/photos/' "> Latest</button> {% endif %}
   <button class="btn active" onclick="window.location.href= '{{ page.url }} '"> {{ page.category }} </button>
-  <button class="btn" onclick="showMore()">Filter...</button>
+  <button class="btn" onclick="showMore()">More...</button>
   <span id="more">
   {% for others in pagelist %}
   {% if page.url != others.url %}

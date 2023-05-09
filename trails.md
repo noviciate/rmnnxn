@@ -10,6 +10,8 @@ galleries:
      title: Transitional Descent
    - filename: /images/photos/trails/2020_0629_20131300-01.jpg
      title: Stipply / Highland Blues
+   - filename: /images/photos/trails/alicebridge.jpg
+     title: Alice Bridge
    - filename: /images/photos/trails/91730027-1.jpg
      title: Sheets of Charlotte
    - filename: /images/photos/trails/91730033-01.jpg
