@@ -4,6 +4,10 @@ title: Photos
 category: Latest
 permalink: /photos
 galleries:
+   - filename: /images/photos/urban/bestrewn.jpg
+     title: Bestrewn
+   - filename: /images/photos/rural/sempiternallight.jpg
+     title: Sempiternal Light
    - filename: /images/photos/rural/cattlecafe.jpg
      title: Cattle Cafe
    - filename: /images/photos/trails/alicebridge.jpg

@@ -25,6 +25,8 @@ galleries:
      title: Proud Ramshackle Barns
    - filename: /images/photos/rural/appleblossoms.jpg
      title: Canal Apple Blossoms (near Albion)
+   - filename: /images/photos/rural/sempiternallight.jpg
+     title: Sempiternal Light
    - filename: /images/photos/rural/richscorner.jpg
      title: Rich's Corner
    - filename: /images/photos/rural/IMG_20190908_070254723_HDR.jpg

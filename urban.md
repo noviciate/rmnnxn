@@ -8,8 +8,8 @@ permalink: /photos/urban
 galleries:
    - filename: /images/photos/urban/1-1.jpg
      title: Cobbs Hill "Folly"
-   - filename: /images/photos/urban/2020_0623_10453300-01.jpg
-     title: Reshoot or Delete LOL
+#   - filename: /images/photos/urban/2020_0623_10453300-01.jpg
+#     title: Reshoot or Delete LOL
    - filename: /images/photos/urban/2020_0627_22502800-01.jpg
      title: Kodak Viewfinder
    - filename: /images/photos/urban/2020_0629_20181200-01.jpg
@@ -18,6 +18,8 @@ galleries:
      title: Eastside Values
    - filename: /images/photos/urban/3-1.jpg
      title: Behind the Confluence
+   - filename: /images/photos/urban/bestrewn.jpg
+     title: Bestrewn
    - filename: /images/photos/urban/4-1.jpg
      title: Mt Hope Analogy
    - filename: /images/photos/urban/6-1.jpg

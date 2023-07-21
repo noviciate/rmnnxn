@@ -10,7 +10,7 @@ image: /images/photos/rural/91730029.jpg
 
 Our mental image of a person is based on an array of assumptions. Our mind is pliable and so our preconceptions can shift over time or in a given moment, ultimately altering our image of the person. This is why I am drawn to creating these semi-abstract "portraits". *These ideas also inform the creative choices in my photography and I will save that for another post.*
 
-![](/images/paintings/chinupgirl-wip.jpg)
+![](/images/paintings/solstice.jpg)
 *Work in progress. I smudge my way to the proper form over time, allowing layers to dry a bit between each go. Oil on paper.*
 
 
@@ -21,7 +21,7 @@ Paper can be cheaper, immediate, and therefore serves well as a preliminary supp
 
 I want to be able to move between digital, charcoal and oil easily and in an indeterminate order. This ambiguous, media agnostic approach meshes better with my thought process. I am thinking of each painting in a way that is like an app that has updates and revisions. There are releases, versions, forks, patches, etc.
 
-And so "Chin-up Girl" is not done but even when it's finished, it will still be a work in progress in a sense. Much in the same way that 
+And so "solstice" is not done but even when it's finished, it will still be a work in progress in a sense. Much in the same way that 
 ![](/images/paintings/bronzeface.jpg)
 
 You can peek photos tagged rural in my [gallery](/photos/rural/).
