@@ -64,3 +64,9 @@ node_modules/
 
 # dotenv environment variables file
 .env
+
+# Let Netlify handle this
+vendor/
+.bundle/
+_site/
+.sass-cache/
